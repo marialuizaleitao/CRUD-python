@@ -4,9 +4,9 @@ Este repositório contém um simples CRUD (Create, Read, Update, Delete) impleme
 
 ## Funcionalidades:
 
-*Criar Aluno:* Adiciona um novo aluno à tabela planilha com nome e idade especificados.
-*Listar Alunos:* Exibe todos os alunos presentes na tabela planilha.
-*Atualizar Aluno:* Modifica as informações de um aluno com base no ID fornecido.
+*Criar Aluno:* Adiciona um novo aluno à tabela planilha com nome e idade especificados.    
+*Listar Alunos:* Exibe todos os alunos presentes na tabela planilha.    
+*Atualizar Aluno:* Modifica as informações de um aluno com base no ID fornecido.    
 *Remover Aluno:* Exclui um aluno da tabela com base no ID fornecido.
 
 ## Instruções de Uso:
